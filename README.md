@@ -142,8 +142,7 @@ Objects farther than **40 cm** are treated as out of the displayed radar range.
 ```text
 Arduino Radar Project/
 │
-├── rdr/
-│   └── rdr.ino
+├── rdr.ino
 └── processing.pde
 ```
 
